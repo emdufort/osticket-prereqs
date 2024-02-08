@@ -38,6 +38,8 @@ Open this: Installation Files
 -We will use these files to install osTicket and some of the 
  dependencies. I’m using this offline version to make sure everyone 
  is using the same version of all the files :)
+	
+![image](https://github.com/emdufort/osticket-prereqs/assets/153258619/3d835a81-1f2a-4b04-9c6c-3f184128daee)
 
 Install / Enable IIS in Windows WITH
 CGI and Common HTTP Features
